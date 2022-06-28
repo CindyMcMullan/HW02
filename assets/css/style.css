@@ -21,7 +21,12 @@ navbar ul {
 }
 
 navbar ul li {
-    
     padding: 15px;
 
+}
+
+p {
+    position:absolute;
+    left:50px;
+    top:125px;
 }
