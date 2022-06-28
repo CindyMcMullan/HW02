@@ -29,4 +29,12 @@ p {
     position:absolute;
     left:50px;
     top:125px;
+    display: none;
+}
+
+h1:hover p {
+    display: inline;
+    font-size: 75%;
+    min-width: 100vw;
+    top: 75px;
 }
